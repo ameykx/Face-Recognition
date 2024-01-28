@@ -1,3 +1,5 @@
+# https://drive.google.com/file/d/1lJaYs2KqJcl1xUVIy6jI_US5cVv36jzT/view?usp=sharing
+# Above link contains model hosted on drive.
 import tensorflow as tf
 import cv2
 from keras.models import load_model
